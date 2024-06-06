@@ -9,5 +9,5 @@ SecLLM is an innovative open-source project that empowers product security engin
 AI-Powered Security Requirements Generation: SecLLM utilizes state-of-the-art natural language processing (NLP) and generative AI models to analyze solution architecture, high-level software requirements, and existing enterprise security controls. Based on this analysis, SecLLM generates tailored security requirements, reducing manual effort and improving efficiency.
 Intelligent AI Integration: Built with Vertex AI, SecLLM seamlessly integrates advanced AI capabilities. This enables intelligent interpretation and analysis of complex security needs, allowing engineers to focus on higher-level security strategies.
 
-# Blog
+## Blog
 https://medium.com/@shashi.mp/role-of-product-security-team-in-cloud-native-enterprise-797739112d52
